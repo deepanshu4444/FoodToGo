@@ -10,23 +10,24 @@
 
 
     <ImageView
-        android:layout_width="349dp"
-        android:layout_height="308dp"
+        android:layout_width="350dp"
+        android:layout_height="300dp"
         android:layout_gravity="center_horizontal"
-        android:layout_margin="60dp"
-        android:layout_marginLeft="60dp"
-        android:layout_marginTop="30dp"
-        android:src="@drawable/food"></ImageView>
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/food">
+    </ImageView>
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
+        android:layout_marginTop="10dp"
         android:gravity="center_horizontal"
         android:text="FooD To Go"
         android:textColor="	#FFFFFF"
-        android:layout_marginTop="60dp"
-        android:textSize="50sp"
-        android:textStyle="bold"></TextView>
+        android:textSize="60sp"
+        android:textStyle="bold">
+    </TextView>
 
 </LinearLayout>
