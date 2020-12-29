@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">FoodToGo</string>
+    <string name="preference_file_name">Preferences</string>
+
+    <string name="open_drawer">
+        Open Drawer
+    </string>
+
+    <string name="close_drawer">
+        Close Drawer
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="q1">1. What kind of restaurants are listed on Give Me Bread?</string>
+    <string name="q2">2. Why are not you delivering to my area yet?</string>
+    <string name="q3">3. Can I place a take away order as well?</string>
+    <string name="q4">4. How much do you charge for delivery fee?</string>
+    <string name="q5">5. How far do you deliver from your partnered restaurant?</string>
+
+    <string name="a1">We have more than 70+ top restaurants listed. Our restaurants are throughout Christchurch and offer multiple cuisine options including Thai, Chinese, Indian and so on. You name it, we have it!</string>
+    <string name="a2">In order to keep the food fresh and hot, we deliver up to 7-8 km from our partnered restaurant. We are expanding rapidly and we will be delivering in your area very soon.</string>
+    <string name="a3">Yes you can place take away order at no extra cost and pick it up whenever you want. Just select takeaway option after clicking on order now button. </string>
+    <string name="a4">We charge a fixed delivery fee of $5.99 (up to 4 km) and $1 per additional km over 4 kms.</string>
+    <string name="a5">We deliver up to 7-8 km from our partnered restaurant which is almost double the distance as compared to other delivery companies. </string>
 </resources>
